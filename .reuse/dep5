@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: bootstrap-gallery-generator
+Upstream-Contact: Marcus Müller <marcus_gallery@hostalia.de>
+Source: https://github.com/marcusmueller/bootstrap-gallery-generator
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
